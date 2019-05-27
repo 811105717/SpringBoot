@@ -1,4 +1,4 @@
-# **一、**Spring Boot 入门
+# ** 一、** Spring Boot 入门
 
 ## 1、Spring Boot 简介
 
@@ -284,7 +284,6 @@ J2EE的整体整合解决方案和自动配置都在spring-boot-autoconfigure-1.
 
 ​		
 
-==Spring注解版（谷粒学院）==
 
 
 
