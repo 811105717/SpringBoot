@@ -1,3 +1,5 @@
+# 注意：该笔记是基于springboot 1.x 版本编写 最新版本可能有所不同
+
 # ** 一、** Spring Boot 入门
 
 ## 1、Spring Boot 简介
